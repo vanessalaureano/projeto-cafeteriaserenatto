@@ -9,7 +9,7 @@
  <h2>Técnicas e Tecnologias</h2>
  
  <ul>
- <li>JavaScript;</li>
+ <li>Bootstrap 5;</li>
  </ul>
  
  <h2>Links</h2>
